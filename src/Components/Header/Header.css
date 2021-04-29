@@ -1,0 +1,10 @@
+.navLink{
+    padding-right: 20px;
+    color: black;
+}
+.navLink:hover{
+    color: blueviolet;
+}
+.navbar-nav a{
+    text-decoration: none;
+}
